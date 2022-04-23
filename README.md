@@ -1,11 +1,11 @@
 - 👋 Oi, eu sou @rangelfn
-- 👀 Estou interessado ...
-- 🌱 Aualmente estou aprendendo...
-- 💞️ Procuro colaborar em...
-- 📫 Como chegar até mim...
-
-Alguns exercícios elaborados
-https://rangelfn.github.io/aulas-html/maratona_dev/
+- 👀 ESou estudante de ADS no IFRO/RO...
+- 🌱 Aualmente estou aprendendo HTML, CSS, JAVASCRIPT, PYTON, REACT e NODEJS
+- 💞️ Procuro conteúdos e projetos relacionados ao meu aprendizado.
+- 📫 Pode me contatar através do meu e-mail rangelnepomuceno@gmail.com
+ 
+- Alguns exercícios elaborados
+- https://rangelfn.github.io/aulas-html/maratona_dev/
 
 <!---
 rangelfn/rangelfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
