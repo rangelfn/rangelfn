@@ -7,6 +7,7 @@
 - Alguns exercícios elaborados
 - https://rangelfn.github.io/cordel/index.html
 - https://rangelfn.github.io/tabela-populacao-brasil/index.html
+- https://rangelfn.github.io/finance/index.html
 
 <!---
 rangelfn/rangelfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
