@@ -5,7 +5,6 @@
 - 📫 Pode me contatar através do meu e-mail rangelnepomuceno@gmail.com
  
 - Alguns exercícios elaborados
-- https://rangelfn.github.io/finance/index.html
 - https://rangelfn.github.io/cordel/index.html
 - https://rangelfn.github.io/tabela-populacao-brasil/index.html
 
