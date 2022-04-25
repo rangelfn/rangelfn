@@ -6,6 +6,7 @@
  
 - Alguns exercícios elaborados
 - https://rangelfn.github.io/aulas-html/maratona_dev/
+- https://rangelfn.github.io/aulas-html/cordel/
 
 <!---
 rangelfn/rangelfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
