@@ -5,9 +5,9 @@
 - 📫 Pode me contatar através do meu e-mail rangelnepomuceno@gmail.com
  
 - Alguns exercícios elaborados
-- https://rangelfn.github.io/cordel/index.html
-- https://rangelfn.github.io/tabela-populacao-brasil/index.html
-- https://rangelfn.github.io/finance/index.html
+- https://rangelfn.github.io/cordel/
+- https://rangelfn.github.io/tabela-populacao-brasil/
+- https://rangelfn.github.io/finance/
 
 <!---
 rangelfn/rangelfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
