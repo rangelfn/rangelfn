@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @rangelfn :brazil:
-- 👀 Publicitário, Especialista em Marketing formado pela UNIRON em 2008,
-- Pós-graduando MBA em Empreendedorismo Marketing e Finanças pela Faculdade Dom Alberto de Santa Cruz do Sul/SC,
+- :white_check_mark: Publicitário, Especialista em Marketing formado pela UNIRON em 2008,
+- 👀 Pós-graduando MBA em Empreendedorismo Marketing e Finanças pela Faculdade Dom Alberto de Santa Cruz do Sul/SC,
 - Acadêmico no Curso Técnico Superior de Análise e Desenvolvimento de Sistemas (ADS) pelo Instituto Federal de Rondônia (IFRO) em Porto Velho/RO,
 - Pós-graduando em Docência do Ensino Superior pela Universidade Federal de Rondônia (UNIR) em Ariquemes.
 - 🌱 Aualmente estou aprendendo HTML, CSS, JAVA, JAVASCRIPT, PYTON, REACT e NODEJS.
