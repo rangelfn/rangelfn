@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @rangelfn
 - 👀 Sou estudante de Análise e Desenvolvimento de Sistemad do IFRO/RO,
-- 🌱 Aualmente estou aprendendo HTML, CSS, JAVASCRIPT, PYTON, REACT e NODEJS.
+- 🌱 Aualmente estou aprendendo HTML, CSS, JAVA, JAVASCRIPT, PYTON, REACT e NODEJS.
 - 💞️ Procuro conteúdos e projetos relacionados ao meu aprendizado.
 - 📫 Pode me contatar através do meu e-mail rangelnepomuceno@gmail.com
  
