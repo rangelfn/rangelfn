@@ -1,9 +1,9 @@
 - 👋 Oi, eu sou @rangelfn :brazil:
-- 🧑🏽‍🎓 Sou Publicitário, Design UI e UX, Especialista em Marketing Digital formado pela UNIRON em 2008.
+- 🧑🏽‍🎓 Sou Publicitário, Especialista em Marketing Digital, Design UI e UX, formado pela UNIRON em 2008.
 - 🎓 Acadêmico de Análise e Desenvolvimento de Sistemas no Instituto Federal de Rondônia (IFRO) em Porto Velho/RO.
-- 🚀 Pós-grad MBA em Empreendedorismo Marketing e Finanças pela Faculdade Dom Alberto de Santa Cruz do Sul/SC.
+- 🚀 Pós-grad MBA em Marketing Empreendedorismo e Finanças pela Faculdade Dom Alberto de Santa Cruz do Sul/SC.
 - 🧑🏻‍🏫 Pós-graduando em Docência do Ensino Superior pela Universidade Federal de Rondônia (UNIR) em Ariquemes/RO.
-- 🌱 Aualmente estou aprendendo HTML, CSS, JAVA, JAVASCRIPT, PYTON, REACT e NODEJS.
+- 🌱 Aualmente HTML, CSS, JAVASCRIPT, ASP.Net Core, SQL, PYTON e NODEJS.
 - 💞️ Procuro conteúdos e projetos relacionados ao meu aprendizado.
 - 📫 Pode me contatar através do meu e-mail rangelnepomuceno@gmail.com
  
