@@ -3,7 +3,8 @@
 - 🎓 Acadêmico de Análise e Desenvolvimento de Sistemas no Instituto Federal de Rondônia (IFRO) em Porto Velho/RO.
 - 🚀 Pós-grad MBA em Marketing Empreendedorismo e Finanças pela Faculdade Dom Alberto de Santa Cruz do Sul/SC.
 - 🧑🏻‍🏫 Pós-graduando em Docência do Ensino Superior pela Universidade Federal de Rondônia (UNIR) em Ariquemes/RO.
-- 🌱 Aualmente HTML, CSS, JAVASCRIPT, ASP.Net Core, SQL, PYTON e NODEJS.
+- 🧑🏻‍🏫 Pós-graduando em Engenhariad e Software pela Estácio de Sá em Porto Velho/RO.
+- 🌱 Habilidade que possuo atualmente HTML, CSS, JAVASCRIPT, ASP.Net Core, SQL, PYTON, NODEJS e SQL.
 - 💞️ Procuro conteúdos e projetos relacionados ao meu aprendizado.
 - 📫 Pode me contatar através do meu e-mail rangelnepomuceno@gmail.com
  
