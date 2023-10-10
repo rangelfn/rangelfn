@@ -10,7 +10,6 @@
  
 - Alguns exercícios elaborados
 - https://rangelfn.github.io/cordel/
-- https://rangelfn.github.io/tabela-populacao-brasil/
 - https://rangelfn.github.io/finance/
 
 <!---
