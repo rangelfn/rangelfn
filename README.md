@@ -11,6 +11,8 @@
 - Alguns exercícios elaborados
 - https://rangelfn.github.io/cordel/
 - https://rangelfn.github.io/finance/
+- https://rangelfn.github.io/nlw-expert-quiz/
+- 
 
 <!---
 rangelfn/rangelfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
