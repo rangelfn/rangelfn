@@ -7,16 +7,15 @@
 🛠️ Desenvolvi ao longo desses anos, competências que abrangem desenvolvimento web front-end com HTML, CSS, JavaScript e back-end com ASP.NET Core, além de noções avançadas em PHP com Laravel, Python e Java. Nesse trajeto também desenvolvi sólidas experiências em análise e desenvolvimento de banco de dados (SQL, MySQL) utilizando ferramentas como, MySQL Workbench, phpMyAdmin, SQL Server Management Studio, Power BI e Looker Studio.
 
 📚 Formação Acadêmica:
-
-🎓 Bacharel em Publicidade e Propaganda (UNIRON), desde 2008.
-📈 MBA em Empreendedorismo, Marketing e Finanças (Faculdade Dom Alberto).
-📚 Pós-graduado em Docência do Ensino Superior (UNIR).
-🖥️ Graduando em Análise e Desenvolvimento de Sistemas (IFRO).
-🚀 Pós-graduando em Engenharia de Software (Estácio de Sá).
+- 🎓 Bacharel em Publicidade e Propaganda (UNIRON), desde 2008.
+- 📈 MBA em Empreendedorismo, Marketing e Finanças (Faculdade Dom Alberto).
+- 📚 Pós-graduado em Docência do Ensino Superior (UNIR).
+- 🖥️ Graduando em Análise e Desenvolvimento de Sistemas (IFRO).
+- 🚀 Pós-graduando em Engenharia de Software (Estácio de Sá).
 
 🎯 Objetivo Profissional: Estou em busca de oportunidades para aplicar minhas habilidades e vasta experiência em comunicação e marketing no desenvolvimento de aplicativos e software, contribuindo assim para o sucesso de empresas inovadoras. Vamos conectar e explorar juntos as possibilidades de colaboração e crescimento!
 
-- 📫 E-mail rangelnepomuceno@gmail.com
+📫 E-mail rangelnepomuceno@gmail.com
 
 🌐 Meus estudos e projetos no GitHub:
 - https://rangelfn.github.io/nlw-expert-quiz/
