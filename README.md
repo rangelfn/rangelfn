@@ -20,8 +20,8 @@
 🌐 Meus estudos e projetos no GitHub:
 - https://rangelfn.github.io/nlw-expert-quiz/
 - https://rangelfn.github.io/nlw-explorer-mago/
-- https://rangelfn.github.io/finance/
-- https://rangelfn.github.io/cordel/
+- https://rangelfn.github.io/dev-finance/
+- https://rangelfn.github.io/dev-cordel/
 <!---
 rangelfn/rangelfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
