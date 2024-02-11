@@ -9,11 +9,10 @@
 - 📫 Pode me contatar através do meu e-mail rangelnepomuceno@gmail.com
  
 - Alguns exercícios elaborados
-- https://rangelfn.github.io/cordel/
-- https://rangelfn.github.io/finance/
 - https://rangelfn.github.io/nlw-expert-quiz/
-- 
-
+- https://rangelfn.github.io/nlw-explorer-mago/
+- https://rangelfn.github.io/finance/
+- https://rangelfn.github.io/cordel/
 <!---
 rangelfn/rangelfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
