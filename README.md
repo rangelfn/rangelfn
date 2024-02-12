@@ -4,7 +4,7 @@
 
 💻 Nos últimos 5 anos iniciei uma migração de carreira para a área de análise e desenvolvimento de sistemas através de estudos para adquirir novas habilidades e competências. Minha paixão abrange desde o design UI/UX com prototipação de aplicações até planejamento e desenvolvimento de aplicações web, mobile e desktop.
 
-🛠️ Desenvolvi ao longo desses anos, competências que abrangem desenvolvimento web front-end com HTML, CSS, JavaScript e back-end com ASP.NET Core, além de noções avançadas em PHP com Laravel, Python e Java. Nesse trajeto também desenvolvi sólidas experiências em análise e desenvolvimento de banco de dados (SQL, MySQL) utilizando ferramentas como, MySQL Workbench, phpMyAdmin, SQL Server Management Studio, Power BI e Looker Studio.
+🛠️ Desenvolvi ao longo desses anos, competências que abrangem desenvolvimento web front-end com HTML, CSS, JavaScript e back-end com ASP.NET Core, além de noções avançadas em PHP com Laravel, Python e Java. Nesse trajeto também desenvolvi sólidas experiências em análise e desenvolvimento de banco de dados (SQL, MySQL) e ETL utilizando ferramentas como, MySQL Workbench, phpMyAdmin, SQL Server Management Studio, Power BI e Looker Studio.
 
 📚 Formação Acadêmica:
 - 🎓 Bacharel em Publicidade e Propaganda (UNIRON), desde 2008.
