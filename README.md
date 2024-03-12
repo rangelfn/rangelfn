@@ -18,6 +18,7 @@
 📫 E-mail rangelnepomuceno@gmail.com
 
 🌐 Meus estudos e projetos no GitHub:
+- https://rangelfn.github.io/nlw-discover-devlinks
 - https://rangelfn.github.io/nlw-expert-quiz/
 - https://rangelfn.github.io/nlw-explorer-mago/
 - https://rangelfn.github.io/dev-finance/
