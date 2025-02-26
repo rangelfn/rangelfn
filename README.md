@@ -3,11 +3,11 @@
 🛠️ Ao inicar minha minha jornada em analise e desenvolvimento de sistemas, desenvolvi competências que abrangem desenvolvimento web front-end com HTML, CSS, JavaScript e back-end com ASP.NET Core, além de noções avançadas em PHP com Laravel, Python e Java. Nesse trajeto também desenvolvi sólidas experiências em análise e desenvolvimento de banco de dados (SQL, MySQL) e ETL utilizando ferramentas como, MySQL Workbench, phpMyAdmin, SQL Server Management Studio, Power BI e Looker Studio.
 
 📚 Formação Acadêmica:
-🎓 Bacharel em Publicidade e Propaganda (UNIRON), desde 2008.
-📈 MBA em Empreendedorismo, Marketing e Finanças (Faculdade Dom Alberto).
-📚 Pós-graduado em Docência do Ensino Superior (UNIR).
-🖥️ Graduado em Análise e Desenvolvimento de Sistemas (IFRO).
-🚀 Pós-graduando em Engenharia de Software (Estácio de Sá).
+-🎓 Bacharel em Publicidade e Propaganda (UNIRON), desde 2008.
+-📈 MBA em Empreendedorismo, Marketing e Finanças (Faculdade Dom Alberto).
+-📚 Pós-graduado em Docência do Ensino Superior (UNIR).
+-🖥️ Graduado em Análise e Desenvolvimento de Sistemas (IFRO).
+-🚀 Pós-graduando em Engenharia de Software (Estácio de Sá).
 
 🎨 Atualmente consiliando minhas experiencias de mercado com minhas novas formações acadêmicas atuo no planejamento, consultoria, desenvolvimento de negócios, produtos e aplicações para empresas.
 
